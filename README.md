@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeDRussell
-- 👀 I’m interested in network automation, craft beer, barbeque.
-- 🌱 I’m currently not doing any structured learning. Though I'm playing with Linux SysAdmin tasks, Python for data wrangling and managing network devices.
+- 👀 I’m interested in business process improvement, automation, craft beer, barbeque.
+- 🌱 I’m currently not doing any structured learning. Though I'm playing with Linux, OpenShift/Kubernetes and Python for data wrangling and toy websites
 - 💞️ I’m looking to collaborate on ... nothing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukedrussell/)
 
