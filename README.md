@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LukeDRussell
-- I'm a Technical / Solution / Network / Infrastructure Architect & Specialist for a $Job.
-- 👀 I’m interested in business process improvement, automation, craft beer, barbeque.
-- 🌱 I’m currently not doing any structured learning. Though I'm playing with Linux, OpenShift/Kubernetes and Python for data wrangling and toy websites
-- 💞️ I’m looking to collaborate on ... nothing.
+- For $Work [I'm a Network | Infrastructure | Technical | Solution]  [Architect | Engineer].
+- Currently I'm a Cloud Network Engineer at Canva
+- 👀 I’m interested in business process improvement, often using technology (aka "Digitisation"), automation, computer games, barbeque.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukedrussell/)
 
 <!---
