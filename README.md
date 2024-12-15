@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukeDRussell
-- For $Work I'm a [Network | Infrastructure | Technical | Solution]  [Architect | Engineer].
-- Currently I'm a Cloud Network Engineer at Canva
-- 👀 I’m interested in business process improvement, often using technology (aka "Digitisation"), automation, computer games, barbeque.
+- For $Work I'm a Network Consulant, available to help with your Architecture, Engineering, Automation and Operations challenges.
+- 👀 I’m also interested in business process improvement, often using technology.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukedrussell/)
 
 <!---
